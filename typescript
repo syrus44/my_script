@@ -1,0 +1,11 @@
+Script started on Tue Mar  5 16:18:55 2013
+]2;bettin_j on pc-bettin_j: /home/bettin_j//Documents/MyScript]1;pc-bettin_jbettin_j has logged on :0 from console.
+bettin_j has logged on console from :0.
+bettin_j has logged on pts/0 from local.
+bettin_j has logged on pts/1 from local.
+[Syrus@Char MyScript] ls c[K&& echo PONEY
+[0m[00m-a[0m  [01;34minclude[0m  [00mlog[0m  [00mMakefile[0m  [00;32mmy_script[0m  [01;34msrc[0m  [00mtypescript[0m
+PONEY
+[Syrus@Char MyScript] exit
+exit
+Script done on Tue Mar  5 16:18:55 2013
